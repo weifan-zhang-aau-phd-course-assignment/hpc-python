@@ -1,0 +1,19 @@
+naive,9.494536
+vectorize,0.346624
+guvectorize,0.3495
+multi-thread 1 worker,9.391389
+multi-thread 2 worker,9.361847
+multi-thread 3 worker,9.978677
+multi-thread 4 worker,10.075626
+multi-thread 5 worker,9.954339
+multi-thread 6 worker,9.924978
+multi-thread 7 worker,9.979138
+multi-thread 8 worker,10.040637
+multi-process 1 worker,9.838197
+multi-process 2 worker,6.973874
+multi-process 3 worker,6.232711
+multi-process 4 worker,5.636742
+multi-process 5 worker,5.309294
+multi-process 6 worker,4.999567
+multi-process 7 worker,5.120309
+multi-process 8 worker,5.150349
